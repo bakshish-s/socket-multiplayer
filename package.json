@@ -1,0 +1,15 @@
+{
+    "name": "com.hashbytestudio.socketmultiplayer",
+    "version": "1.0.0",
+    "displayName": "Hashbyte - Socket Multiplayer Wrapper",
+    "description": "Wrapper to implement Socket multiplayer using Socket.Io",
+    "unity": "2022.3",
+    "author": {
+        "name": "Hashbyte Studios Pvt Ltd",
+        "email": "bakshish@hashbytestudio.com",
+        "url": "https://www.hashbytestudio.com"
+    },
+    "samples": [
+        
+    ]
+}
